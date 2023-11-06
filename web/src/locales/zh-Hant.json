@@ -4,18 +4,24 @@
     "memos-description": "Memos 是一個網頁式的筆記應用程式，您可用它記錄、組織以及分享你的筆記",
     "no-server-description": "此伺服器未設置說明。",
     "other-projects": "其他專案",
-    "powered-by": "威力本源"
+    "powered-by": "Powered by"
+  },
+  "amount-text": {
+    "memo": "MEMO"
   },
   "auth": {
+    "create-your-account": "建立您的賬戶",
     "host-tip": "您註冊為此站台之管理員。",
     "new-password": "新密碼",
-    "repeat-new-password": "再次輸入新密碼"
+    "repeat-new-password": "再次輸入新密碼",
+    "sign-in-tip": "已有帳戶？",
+    "sign-up-tip": "還沒有帳戶？"
   },
   "common": {
     "about": "關於",
     "admin": "管理",
     "archive": "封存",
-    "archived": "封存",
+    "archived": "已封存",
     "avatar": "頭像",
     "basic": "基礎",
     "beta": "測試版",
@@ -38,7 +44,7 @@
     "home": "首頁",
     "image": "圖片",
     "language": "語言",
-    "learn-more": "了解",
+    "learn-more": "了解更多",
     "link": "連結",
     "mark": "Mark",
     "name": "名稱",
@@ -49,6 +55,8 @@
     "password": "密碼",
     "pin": "釘選",
     "preview": "預覽",
+    "profile": "個人專頁",
+    "remember-me": "保持登入",
     "rename": "更名",
     "reset": "重設",
     "resources": "資源庫",
@@ -75,6 +83,7 @@
     "inbox": "通知"
   },
   "daily-review": {
+    "no-memos": "可惜可惜，是日空空如也。",
     "title": "每日回顧"
   },
   "days": {
@@ -113,6 +122,10 @@
   "memo": {
     "archived-at": "封存於",
     "archived-memos": "封存的備忘錄",
+    "comment": {
+      "no-comment": "没有評論",
+      "self": "評論"
+    },
     "copy-link": "複製連結",
     "delete-confirm": "您確定要刪除此備忘錄？\n\n此動作為不可逆❗",
     "delete-memo": "刪除備忘錄",
@@ -208,6 +221,7 @@
     "warning-text-unused": "您確定要刪除這些未使用的資源？\n\n此動作為不可逆❗"
   },
   "router": {
+    "back-to-top": "回到頂部",
     "go-to-home": "回到首頁"
   },
   "setting": {
@@ -264,6 +278,7 @@
       "create-sso": "新增 SSO",
       "custom": "自訂",
       "delete-sso": "確認刪除",
+      "disabled-password-login-warning": "已禁用密碼登入，删除身份提供程式時，請格外小心",
       "display-name": "顯示名稱",
       "identifier": "識別碼",
       "identifier-filter": "識別碼過濾器",
